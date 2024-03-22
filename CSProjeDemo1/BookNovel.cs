@@ -1,6 +1,6 @@
 ﻿namespace CSProjeDemo1
 {
-    public class BookNovel
+    public class BookNovel : Book
     {
     }
 }

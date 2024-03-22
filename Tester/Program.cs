@@ -13,7 +13,7 @@ book1.Author = "tester";
 book1.TotalBookCount = 5;
 book1.ReleaseDate = new DateOnly(2020,2,5);
 
-Book book2 = new BookHistory();
+BookNovel book2 = new BookNovel();
 book2.Id = Guid.NewGuid();
 book2.ISBN = "2234";
 book2.Title = "Test";
@@ -21,7 +21,7 @@ book2.Author = "tester";
 book2.TotalBookCount = 0;
 book2.ReleaseDate = new DateOnly(2020, 2, 5);
 
-Book book3 = new BookHistory();
+BookScience book3 = new BookScience();
 book3.Id = Guid.NewGuid();
 book3.ISBN = "3334";
 book3.Title = "Test";

@@ -1,5 +1,4 @@
-﻿
-namespace CSProjeDemo1
+﻿namespace CSProjeDemo1
 {
     public class Member : IMember
     {
